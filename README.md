@@ -1,31 +1,31 @@
-# Scout-Ops-D.A.T.A (Data Across The Air)
+# ☁️Scout-Ops-D.A.T.A (Data Across The Air)
 
 
 
 
 
-# Features
-
-
-
-
-
-
-# Usage
+# ✨Features
 
 
 
 
 
 
-
-
-
-# Requirements
-
+# 📄Requirements
 
 
 
 
 
-# Credits
+
+
+
+
+# ☭Setup and Usage
+
+
+
+
+
+
+# 👨‍👨‍👧‍👧Credits
